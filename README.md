@@ -1,3 +1,10 @@
+<!-- AppModule is a Root Module -->
+<!-- Installing Angular Material => npm install @angular/material -->
+<!-- npm install @angular/cdk --save -->
+<!-- npm install @angular/animation --save -->
+<!-- npm install hammerjs@2.0.8 --save -->
+<!-- npm install --save @angular/flex-layout -->
+
 # ConFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
@@ -25,3 +32,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+"Configuring Files" 
