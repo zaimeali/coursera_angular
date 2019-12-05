@@ -1,2 +1,3 @@
 Dependency Injection:
     Sw Design Pattern that implements inversion of control for resolving dependencies.
+    ~coined by Martin Fowler in 2004
