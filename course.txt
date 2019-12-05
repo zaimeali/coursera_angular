@@ -1,0 +1,2 @@
+Dependency Injection:
+    Sw Design Pattern that implements inversion of control for resolving dependencies.
