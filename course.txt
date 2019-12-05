@@ -1,3 +1,18 @@
 Dependency Injection:
     Sw Design Pattern that implements inversion of control for resolving dependencies.
     ~coined by Martin Fowler in 2004
+    ~involves 4 roles:
+        ~The Service
+        ~The Client
+        ~The Interface
+        ~The Injector
+
+    ~3 ways for a component to get hold of its dependencies:
+        ~create dependency using new operator
+        ~look up dependency using a global variable
+        ~have dependency passed to it where needed (most flexible)
+
+    ~Angular Injection Subsystem is responsible for:
+        ~creating component
+        ~resolving their dependencies
+        ~providing them to other components
