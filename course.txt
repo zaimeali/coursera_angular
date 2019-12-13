@@ -16,3 +16,7 @@ Dependency Injection:
         ~creating component
         ~resolving their dependencies
         ~providing them to other components
+
+    >> ng generate service services/dish 
+    // Create a folder named services in the src/app folder.
+    // To add a service to your application using Angular CLI, type the following at the prompt:
