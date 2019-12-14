@@ -10,3 +10,5 @@ import { CommonModule } from '@angular/common';
   ]
 })
 export class AppRoutingModule { }
+
+// ng g m app-routing           // to add routing module
