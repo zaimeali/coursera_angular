@@ -22,6 +22,7 @@ import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 
 import { DishService } from './services/dish.service';
+import { PromotionService } from './services/promotion.service';
 
 import { AppRoutingModules } from './app-routing/app-routing.module';
 
@@ -50,7 +51,8 @@ import { AppRoutingModules } from './app-routing/app-routing.module';
   ],
   // every injector will be add in providers
   providers: [
-    DishService
+    DishService,
+    PromotionService
   ],
   bootstrap: [AppComponent]
 })
